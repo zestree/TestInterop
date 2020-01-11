@@ -5,6 +5,6 @@
 namespace Native {
 	class Hello {
 	public:
-		LPCTSTR GetGreeting();
+		LPCTSTR Greeting();
 	};
 }

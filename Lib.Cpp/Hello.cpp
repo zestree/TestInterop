@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "Hello.h"
 
-LPCTSTR Native::Hello::GetGreeting()
+LPCTSTR Native::Hello::Greeting()
 {
 	return LPCTSTR(L"Hello World");
 }
